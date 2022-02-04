@@ -1,0 +1,9 @@
+.grid-container{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    
+}
+.grid-item{
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.footer-container{
+    display: flex;
+    width: 90vw;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px;
+    padding: 10px 25px;
+}
+.footer-container h3{
+    font-size: medium;
+}
+.footer-container li{
+    list-style: none;
+}
